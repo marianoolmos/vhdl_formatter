@@ -1,0 +1,13 @@
+[libraries]
+
+std.files = ['std/*.vhd']
+std.is_third_party = true
+
+ieee.files = ['ieee2008/*.vhdl', 'synopsys/*.vhdl', 'vital2000/*.vhdl']
+ieee.is_third_party = true
+
+# OSVVM
+osvvm.files = [
+'/OsvvmLibraries/osvvm/*.vhd'
+]
+osvvm.is_third_party = true
