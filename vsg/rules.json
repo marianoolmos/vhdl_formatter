@@ -2914,7 +2914,7 @@
       "user_error_message": ""
     },
     "constant_004": {
-      "case": "lower",
+      "case": "upper",
       "case_exceptions": [],
       "disable": false,
       "fixable": true,
@@ -5001,7 +5001,7 @@
       "user_error_message": ""
     },
     "generic_007": {
-      "case": "lower",
+      "case": "upper",
       "case_exceptions": [],
       "disable": false,
       "fixable": true,
@@ -7318,7 +7318,7 @@
       "user_error_message": ""
     },
     "port_010": {
-      "case": "lower",
+      "case": "upper",
       "case_exceptions": [],
       "disable": false,
       "fixable": true,
